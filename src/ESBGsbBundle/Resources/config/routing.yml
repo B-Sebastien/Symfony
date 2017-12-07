@@ -1,0 +1,3 @@
+esb_gsb_homepage:
+    path:     /
+    defaults: { _controller: ESBGsbBundle:Default:index }
